@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+p{
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 30px;
+}
+div{
+    width: 20%;
+    height: 20px;
+    background-color: aqua;
+}
